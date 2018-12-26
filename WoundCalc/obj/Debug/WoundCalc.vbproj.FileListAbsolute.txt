@@ -1,0 +1,12 @@
+E:\Skripte\VB\WoundCalc\WoundCalc\obj\Debug\WoundCalc.vbprojAssemblyReference.cache
+E:\Skripte\VB\WoundCalc\WoundCalc\obj\Debug\WoundCalc.Form1.resources
+E:\Skripte\VB\WoundCalc\WoundCalc\obj\Debug\WoundCalc.Resources.resources
+E:\Skripte\VB\WoundCalc\WoundCalc\obj\Debug\WoundCalc.vbproj.GenerateResource.cache
+E:\Skripte\VB\WoundCalc\WoundCalc\obj\Debug\WoundCalc.vbproj.CoreCompileInputs.cache
+E:\Skripte\VB\WoundCalc\WoundCalc\bin\Debug\WoundCalc.exe.config
+E:\Skripte\VB\WoundCalc\WoundCalc\bin\Debug\WoundCalc.exe
+E:\Skripte\VB\WoundCalc\WoundCalc\bin\Debug\WoundCalc.pdb
+E:\Skripte\VB\WoundCalc\WoundCalc\bin\Debug\WoundCalc.xml
+E:\Skripte\VB\WoundCalc\WoundCalc\obj\Debug\WoundCalc.exe
+E:\Skripte\VB\WoundCalc\WoundCalc\obj\Debug\WoundCalc.xml
+E:\Skripte\VB\WoundCalc\WoundCalc\obj\Debug\WoundCalc.pdb
